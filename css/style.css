@@ -17,7 +17,7 @@ body {
 	width: 100%;
 	max-width: 1200px;
 	height: 40vh; /* 40% of viewport height */
-	max-height: 300px;
+	max-height: 250px;
 	overflow: hidden;
 	flex-shrink: 0;
 	margin-left: auto;
